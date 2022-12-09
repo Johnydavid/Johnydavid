@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Johnson David
 - 👀 I’m interested in creating user-friendly and Interactive websites
 - 🌱 I’m currently learning MERN Full Stack Developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Technical Skills:
+- HTML5,CSS5, Javascript, React, Python
 - 📫 Reach me at dropin2johny@gmail.com
 
 <!---
