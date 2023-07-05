@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johnson David</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Full Stack Web Developer**
+- 🌱 I’m currently looking for an opportunity to work as a **MERN Full Stack Web Developer**
 
-- 💬 Ask me about **HTML5, CSS5, Javascript, React.js, Python**
+- 💬 Ask me about **HTML5, CSS5, Javascript, React.js, Python, MongoDB, NodeJS**
 
 - 📫 How to reach me **dropin2johny@gmail.com**
 
