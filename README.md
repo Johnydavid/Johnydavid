@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently looking for an opportunity to work as a **MERN Full Stack Web Developer**
 
-- 💬 Ask me about **HTML5, CSS5, Javascript, React.js, Python, MongoDB, NodeJS**
+- 💬 Ask me about **HTML5, CSS3, Javascript, React.js, Python, MongoDB, NodeJS**
 
 - 📫 How to reach me **dropin2johny@gmail.com**
 
